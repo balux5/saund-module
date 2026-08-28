@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include "Audio.h" // schreibfaul1 kitabxanası
 
-const char* ssid = "Ruhin";
-const char* password = "0557407742e";
+const char* ssid = "your ssid";
+const char* password = "yotu wifi password";
 
 // Sənin MAX98357A pinlərin
 #define SPK_LRC 16
